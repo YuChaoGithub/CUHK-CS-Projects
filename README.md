@@ -1,4 +1,6 @@
 # CUHK CS Projects
+Below is a list of some programming projects I've worked on during my studies at CUHK.
+
 ## 2019 Spring
 * [CSCI2100/ESTR2102 Data Structures](https://github.com/YuChaoGithub/CUHK-CSCI2100-ESTR2102)
 
